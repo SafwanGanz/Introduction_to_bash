@@ -1,4 +1,4 @@
-
+![bash_](https://i.ibb.co/zM6NM27/20250313-171136.png)
 # <span style="color: #00ff00; font-family: 'Courier New', monospace;">~$ Introduction to Bash</span>  
 ### <span style="color: #ffffff; font-family: 'Courier New', monospace;">A Beginner's Guide to the Bourne Again Shell</span>  
 <div style="background: #1a1a1a; padding: 15px; border-radius: 8px; color: #00ff00; font-family: 'Courier New', monospace;">
